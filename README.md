@@ -1,5 +1,5 @@
 # SKGE
 
-Semantic Knowledge Graphs Embeddings is an approach to the vector representation of an arbitrary complexity sentence from its knowledge graph on the space of meanings (static embeddings).
+Semantic Knowledge Graphs Embeddings is an approach to the vector representation of an arbitrary complexity sentence in the space of meanings (static embeddings), based on the sentence knowledge graph.
 
-Code is complete EXCEPT Glove and Word2vec embedding files. There are links to dowload them in 'embeddings' folder.
+Code is complete EXCEPT Word2vec and Glove embedding files. There are links to dowload them in the 'embeddings' folder.
